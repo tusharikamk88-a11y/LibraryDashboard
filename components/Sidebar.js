@@ -11,7 +11,7 @@ export default function Sidebar({ page, setPage, onReload }) {
   return (
     <aside className="sidebar">
       <img src="/stack-of-books.png" alt="Apni Library" style={{ width: "100%", maxWidth: "160px", marginBottom: "0.4rem" }} />
-      <div className="sidebar-tagline">Where stories begin</div>
+      <div className="sidebar-tagline">श्रद्धावान लभते ज्ञानं।</div>
       <hr />
       <ul className="nav-list">
         {NAV_ITEMS.map((item) => (
