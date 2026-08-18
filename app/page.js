@@ -175,7 +175,7 @@ A library today, a brighter future tomorrow.`}
             <div className="stat-box" style={{ maxWidth: 220 }}>
               <div style={{ fontSize: "2.5rem" }}>👩‍💼</div>
               <div style={{ fontWeight: 800, fontSize: "1rem", marginTop: "0.4rem" }}>
-                <div className="stat-label">Volunteers</div>
+                <div className="stat-label"><h3>Volunteers</h3></div>
                 <div style={{ fontWeight: 800, fontSize: "1rem", marginTop: "0.4rem" }}>Chetna, Mugdha, Pavitra, Saranya, Vandana, Vishakha    </div>
               </div>
             </div>
